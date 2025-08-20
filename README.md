@@ -1,4 +1,4 @@
-![MiszterSoul's GitHub stats](https://stat2-six.vercel.app/api?username=misztersoul&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+![MiszterSoul's GitHub stats](https://stat2-six.vercel.app/api?username=misztersoul&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 
 <!--
