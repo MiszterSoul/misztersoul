@@ -1,4 +1,4 @@
-[![MiszterSoul's GitHub stats](https://stat2-git-main-misztersouls-projects.vercel.app/api?username=misztersoul&count_private=true)](https://github.com/misztersoul)
+![MiszterSoul's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs](https://stat2-git-main-misztersouls-projects.vercel.app/api?username=misztersoul&count_private=true))
 
 <!--
 **MiszterSoul/misztersoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
